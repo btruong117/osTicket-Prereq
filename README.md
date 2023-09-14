@@ -38,7 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <p>
 1) Since the osTicket instance is going to be hosted on a VM, we'll start with that first. For all intents and purposes, this could be done on any VM manager, but in this case we'll use Azure's Virtual Machine
-  Service to host it. Start by going to 
+  Service to host it. Start by going to "Virtual Machines" in your Azure dashboard and create an Windows 10 VM with version 21H2. The specs you pick are at your discretion. Remember to document the username and password you set during the creation process.
 </p>
 <br />
 
@@ -46,7 +46,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2) Next, connect to the VM using Remote Desktop Connection (RDC). RDC using the search bar. Once it is open, enter the public IP address (pictured above, it will be different from mine) for the VM and enter the credentials. Keep in mind, if you are running Windows 10 Home on your host system, RDC will not be available for you. The only other option would be to upgrade to Windows 10/11 Pro or use third party software.
 </p>
 <br />
 
@@ -54,6 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3) 
 </p>
 <br />
