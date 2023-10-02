@@ -38,8 +38,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/S3joMyx.png" height="80%" width="80%" alt="VM Creation"/>
 </p>
 <p>
-Since the osTicket instance is going to be hosted on a VM, we'll start with that first. For all intents and purposes, this could be done on any VM manager, but in this case we'll use Azure's Virtual Machine
-  Service to host it. Start by going to "Virtual Machines" in your Azure dashboard and create an Windows 10 VM with version 21H2. The specs you pick are at your discretion. Remember to document the username and password you set during the creation process.
+1 )Since the osTicket instance is going to be hosted on a VM, we'll start with that first. For all intents and purposes, this could be done on any VM manager, but in this case we'll use Azure's Virtual Machine Service to host it. Start by going to "Virtual Machines" in your Azure dashboard and create an Windows 10 VM with version 21H2. The specs you pick are at your discretion. Remember to document the username and password you set during the creation process.
 </p>
 <br />
 
