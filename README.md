@@ -51,9 +51,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 3) The last thing we'll need for this section are the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">installation files</a>. Open these within your VM on either Microsoft Edge or download Google Chrome and open it from there. 
 </p>
 <p></p>
